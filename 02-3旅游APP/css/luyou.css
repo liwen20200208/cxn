@@ -1,0 +1,164 @@
+body, ul, li, ol, p, h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+
+.big-box {
+  padding-top: 0.03rem;
+  background: #f3f3f3;
+  width: 3.37rem;
+  height: 7.86rem; }
+
+.big-box .li-div {
+  margin: auto;
+  width: 3.24rem;
+  border-right: 2px solid #e1e1e1;
+  border-bottom: 2px solid #e1e1e1;
+  height: 7.8rem; }
+
+.big-box .li-div .head {
+  height: 0.38rem;
+  background: #fa3a39;
+  display: flex;
+  align-items: center;
+  justify-content: space-around; }
+
+.big-box .li-div .head > img:nth-of-type(1) {
+  width: 0.13rem;
+  height: 0.2rem; }
+
+.big-box .li-div .head > div {
+  display: flex;
+  width: 2.46rem;
+  height: 0.26rem;
+  align-items: center;
+  background: #fff;
+  border-radius: 0.04rem; }
+
+.big-box .li-div .head > div > img {
+  margin-left: 0.06rem; }
+
+.big-box .li-div .head > div h2 {
+  font-size: 0.12rem; }
+
+.big-box .li-div .head > div input {
+  background: url(../img/icon.png) no-repeat left;
+  background-size: 0.16rem 0.16rem;
+  padding-left: 0.2rem;
+  margin-left: 0.2rem;
+  font-size: 0.12rem;
+  border: none; }
+
+.big-box .li-div #banner {
+  height: 0.85rem; }
+
+.big-box .li-div #banner img {
+  display: block;
+  height: 0.85rem; }
+
+.big-box .li-div #banner #div {
+  line-height: 0.3rem;
+  margin-top: 0.1rem; }
+
+.big-box .li-div .main {
+  height: 5.66rem; }
+
+.big-box .li-div .main div:nth-of-type(1) {
+  padding-top: 0.2rem;
+  height: 1.2rem;
+  background: url(../img/banner.jpg) no-repeat;
+  background-size: 100% 1.48rem; }
+
+.big-box .li-div .main div:nth-of-type(1) p {
+  width: 90%;
+  text-align: center;
+  line-height: 0.3rem;
+  background: #feea2b;
+  font-size: 0.1rem;
+  border-radius: 0.5rem; }
+
+.big-box .li-div .main div:nth-of-type(1) h2 {
+  font-size: 0.16rem;
+  color: white;
+  line-height: 0.75rem;
+  text-align: center;
+  font-weight: normal; }
+
+.big-box .li-div .main div:nth-of-type(2) {
+  height: 4.26rem;
+  background: #ff5722; }
+
+.big-box .li-div .main div:nth-of-type(2) ul {
+  margin: 0 auto;
+  width: 3rem;
+  height: 3.2rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap; }
+
+.big-box .li-div .main div:nth-of-type(2) ul li {
+  width: 0.9rem;
+  height: 1.4rem;
+  text-align: center;
+  color: white;
+  border-radius: 0.04rem;
+  background: url(../img/puji.jpg) no-repeat;
+  background-size: 100% 1.4rem; }
+
+.big-box .li-div .main div:nth-of-type(2) ul li h2 {
+  margin-top: 0.9rem;
+  font-size: 0.18rem; }
+
+.big-box .li-div .main div:nth-of-type(2) ul li p {
+  font-size: 0.1rem;
+  width: 0.68rem;
+  height: 0.16rem;
+  text-align: center;
+  background: red;
+  line-height: 0.16rem;
+  margin-left: 0.07rem;
+  border-radius: 0.3rem; }
+
+.big-box .li-div .main div:nth-of-type(2) ol {
+  width: 3rem;
+  height: 1rem;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center; }
+
+.big-box .li-div .main div:nth-of-type(2) ol li {
+  width: 22%;
+  background: #fee72b;
+  border-radius: 0.06rem;
+  font-size: 0.12rem;
+  text-align: center;
+  line-height: 0.4rem; }
+
+.big-box .li-div .footer {
+  height: 0.4rem;
+  padding-top: 0.1rem; }
+
+.big-box .li-div .footer ul {
+  display: flex; }
+
+.big-box .li-div .footer ul li {
+  width: 25%; }
+
+.big-box .li-div .footer ul li img {
+  display: block;
+  margin: 0 auto; }
+
+.big-box .li-div .footer ul li a {
+  text-decoration: none;
+  text-align: center;
+  font-size: 0.12rem;
+  color: #000;
+  margin-top: 0.06rem;
+  display: block; }
+
+/*# sourceMappingURL=LvYou.css.map */
+
+/*# sourceMappingURL=luyou.css.map */
